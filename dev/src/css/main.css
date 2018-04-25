@@ -1,11 +1,3 @@
-/************
- * 页面样式
- ************/
-
-/* ===========
-   基本默认值
-   =========== */
-
 html {
     font-size: 62.5%;
     color: #222;
@@ -24,10 +16,6 @@ ul {
 li {
     list-style: none;
 }
-
-/* ===========
-   工具样式
-   =========== */
 
 .center-block {
     display: block;
@@ -80,16 +68,71 @@ li {
     content: " ";
     display: table;
 }
+
 .clearfix:after {
     clear: both;
 }
-
-/* ===========
-   浏览器更新提示
-   =========== */
 
 .browserupgrade {
     margin: 0;
     padding: 1rem;
     background: #ccc;
+}
+
+body {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    background-color: #f7f7f7;
+}
+
+a {
+    color: #666;
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    color: #0ae;
+    text-decoration: underline;
+}
+
+header {
+    width: 100%;
+}
+
+header .top {
+    line-height: 3rem;
+    padding: 0 1.5rem;
+    color: #fff;
+    background: #555;
+    border-bottom: 1px #ecc000 solid;
+}
+
+header .top .tel {
+    float: left;
+}
+
+header .top ul {
+    text-align: right;
+}
+
+header .top ul li {
+    display: inline-block;
+}
+
+header .top ul li + li {
+    border-left: 1px solid #999;
+    margin-left: -3px;
+}
+
+header .top ul li a {
+    display: inline-block;
+    padding: 0 1.5rem;
+    color: #fff;
+}
+.container {
+    width: 100%;
+}
+
+.footer {
+    width: 100%;
 }
