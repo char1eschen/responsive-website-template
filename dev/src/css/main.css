@@ -83,3 +83,13 @@ li {
 .clearfix:after {
     clear: both;
 }
+
+/* ===========
+   浏览器更新提示
+   =========== */
+
+.browserupgrade {
+    margin: 0;
+    padding: 1rem;
+    background: #ccc;
+}
