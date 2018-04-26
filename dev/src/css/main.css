@@ -64,7 +64,7 @@ li {
 }
 
 .clearfix:before,
-.claerfix:after {
+.clearfix:after {
     content: " ";
     display: table;
 }
@@ -447,13 +447,13 @@ footer ul li .icon {
     overflow: hidden;
 }
 
-footer ul li .icon-zfywxk {
+footer ul li .icon-zfywxkz {
     width: 38px;
     height: 27px;
     background-position: -369px -45px;
 }
 
-footer ul li .icon-pcirk {
+footer ul li .icon-pcirz {
     width: 78px;
     height: 27px;
     background-position: -110px -96px;
