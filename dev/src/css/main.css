@@ -325,14 +325,14 @@ header .main ul li a.active {
     margin-top: 4rem;
 }
 
-.product .product-contect {
+.product .product-content {
     float: right;
     width: 79.5%;
     border-left: 1px solid #eee;
     background-color: #fff;
 }
 
-.product .product-contect .item {
+.product .product-content .item {
     width: 100%;
 }
 
@@ -340,7 +340,7 @@ header .main ul li a.active {
     border-top: 1px solid #eee;
 }
 
-.product .product-contect .item h3 {
+.product .product-content .item h3 {
     float: left;
     width: 30%;
     margin: 1.5rem 0;
@@ -349,21 +349,21 @@ header .main ul li a.active {
     text-align: center;
 }
 
-.product .product-contect .item h3 em {
+.product .product-content .item h3 em {
     margin-right: 0.5rem;
     font-size: 3.6rem;
     font-style: normal;
     color: #8b999d;
 }
 
-.product .product-contect .item h3 i {
+.product .product-content .item h3 i {
     display: block;
     font-size: 1.2rem;
     font-style: normal;
     color: #999;
 }
 
-.product .product-contect .item .info {
+.product .product-content .item .info {
     float: left;
     width: 48%;
     padding: 1rem;
@@ -372,36 +372,36 @@ header .main ul li a.active {
     font-size: 14px;
 }
 
-.product .product-contect .item .info p {
+.product .product-content .item .info p {
     float: left;
     display: inline-block;
     text-align: center;
     width: 56%;
 }
 
-.product .product-contect .item  .info p:last-child {
+.product .product-content .item  .info p:last-child {
     width: 40%;
 }
 
-.product .product-contect .item .info p span {
+.product .product-content .item .info p span {
     display: block;
     font-size: 2.4rem;
     color: #ff9900;
 }
 
-.product .product-contect .item .info p sapn i {
+.product .product-content .item .info p span i {
     font-size: 1.2rem;
     font-style: normal;
     color: #999;
 }
 
-.product .product-contect .item .buy {
+.product .product-content .item .buy {
     float: left;
     width: calc(22% - 4.4rem);
     padding: 1rem;
 } 
 
-.product .product-contect .item .buy a {
+.product .product-content .item .buy a {
     display: block;
     width: 90%;
     margin: 1.5rem auto;
@@ -414,15 +414,16 @@ header .main ul li a.active {
     border-radius: 5px;
 }
 
-.product .product-contect .item .buy a:hover,
-.product .product-contect .item .buy a:active {
+.product .product-content .item .buy a:hover,
+.product .product-content .item .buy a:active {
     background-color: #ffc468;
 }
 
-.product .product-contect .item .buy a.disabled {
+.product .product-content .item .buy a.disabled {
     background-color: #ccc !important;
     cursor: not-allowed;
 }
+
 .footer {
     width: 100%;
     padding: 3rem 0 5rem;
