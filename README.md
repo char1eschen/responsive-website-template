@@ -1,5 +1,7 @@
 # Responsive website template
 
+![](https://github.com/char1eschen/responsive-website-template/blob/master/img/project-showcase-licaibao.jpg)
+
 ## A Responsive HTML5/CSS3 template for setting up an finance website.
 
 This template is designed for desktops, tablets and mobile phones and can display different layout in different devices. The template has been tested on iOS, Windows Phone, Android, Chrome, Safari and other browsers. The original idea for setting up this template was to practice how to creat a responsive website. This project was developed with HTML5, CSS and jQuery.
