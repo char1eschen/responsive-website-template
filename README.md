@@ -6,7 +6,7 @@ This template is designed for desktops, tablets and mobile phones and can displa
 
 The template is free and open to reuse under MIT licence.
 
-## Example Site
+## Demo Site
 
 [Available here](https://char1eschen.github.io/responsive-website-template/)
 
